@@ -4,7 +4,7 @@
     <p>Please fill in this form!</p>
     <hr>
     <br>
-    <h1>Demo Implementation</h1>
+    <h1>Demo Implementation Final Phase</h1>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
