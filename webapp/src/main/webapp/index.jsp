@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Clod2-AIP-Demo AUTOTRONS Registration!</h1>
+    <h1> AUTOTRONS Registration!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
